@@ -1,1 +1,1 @@
-# my-first-blog
+# djangogirls2
